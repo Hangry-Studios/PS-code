@@ -32,4 +32,3 @@ $Watcher.Stop()
 function print($text) {
     Write-Host $text
 }
-print("creator is fitzypopper")
